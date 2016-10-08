@@ -24,7 +24,7 @@ body {
           {
                   max-width: 800px;
                  margin: 200px;
-                 color: red;
+                 color: "red";
                font-family:" Times new roman";
                 padding-top: 50px;
                padding-left: 380px;
