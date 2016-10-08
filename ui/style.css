@@ -6,7 +6,7 @@ body {
 }
 
 .center {
-    text-align: "center";
+    text-align: 'center';
 }
 
 .text-big {
@@ -18,13 +18,13 @@ body {
 }
 
 .img-medium {
-    height: 500px;
+    height: 300px;
 }
  .styles
           {
                   max-width: 800px;
                  margin: 200px;
-                 color: #d4a026;
+                 color: red;
                font-family:" Times new roman";
                 padding-top: 50px;
                padding-left: 380px;
